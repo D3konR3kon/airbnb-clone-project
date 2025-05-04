@@ -102,6 +102,12 @@ Design and develop a production-ready backend to handle:
 - **CI/CD Pipelines** – Automated testing and deployment
 
 ---
+## Team Roles
+## Feature Breakdown
+## API Security Overview
+## Database Design
+## CI/CD Pipeline Overview
+## Manual Review
 
 ## 🧪 Getting Started
 
